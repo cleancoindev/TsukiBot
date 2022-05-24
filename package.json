@@ -21,7 +21,7 @@
     "etherscan-api": "^10.0.5",
     "express": "^4.17.1",
     "fast-average-color-node": "^1.0.3",
-    "finnhub": "^1.2.4",
+    "finnhub": "^1.2.14",
     "graviex": "^1.0.0",
     "jsdom": "^16.6.0",
     "node-fetch": "^2.6.1",
