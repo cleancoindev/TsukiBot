@@ -10,7 +10,7 @@
     "@stoqey/finnhub": "^0.3.4",
     "alphavantage": "^2.2.0",
     "canvas": "^2.8.0",
-    "ccxt": "^1.53.67",
+    "ccxt": "^1.81.27",
     "chalk": "^4.1.1",
     "coingecko-api": "^1.0.10",
     "coinmarketcap-api": "^3.1.1",
