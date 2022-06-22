@@ -18,7 +18,7 @@
     "dblapi.js": "^2.4.1",
     "didyoumean": "^1.2.2",
     "discord.js": "^12.5.3",
-    "etherscan-api": "^10.0.5",
+    "etherscan-api": "^10.0.6",
     "express": "^4.17.1",
     "fast-average-color-node": "^1.0.3",
     "finnhub": "^1.2.4",
