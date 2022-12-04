@@ -19,7 +19,7 @@
     "didyoumean": "^1.2.2",
     "discord.js": "^12.5.3",
     "etherscan-api": "^10.0.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fast-average-color-node": "^1.0.3",
     "finnhub": "^1.2.4",
     "graviex": "^1.0.0",
